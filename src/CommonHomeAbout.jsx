@@ -20,7 +20,7 @@ const CommonHomeAbout = (props)=>{
 
 
                                 <div className="mt-5 pt-5 col-md-6 order-1 order-lg-2 header-img text-center">
-                                    <img src={props.imgLink} className="img-fluid animated" width="300" height="500" alt="pics"/>
+                                    <img src={props.imgLink} className="img-fluid" width="300" height="500" alt="pics"/>
                                 </div>
 
                             </div>          
